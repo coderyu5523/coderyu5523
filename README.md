@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ef1da198-9ffb-4eeb-8bc1-357db8d5ccb6)
+![image](https://github.com/user-attachments/assets/ded735a6-911e-46cf-9f96-a76f7d3f11cb)
 
 # 습관을 만드는 개발 👋
 
