@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png" alt="Example 1" style="max-width: 100%;">
-<br/>
+![image](https://github.com/user-attachments/assets/ef1da198-9ffb-4eeb-8bc1-357db8d5ccb6)
 
 # 습관을 만드는 개발 👋
 
