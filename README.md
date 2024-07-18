@@ -2,6 +2,10 @@
 
 ## 블로그&노션
 
+- 블로그 : https://inblog.ai/coderyu1?traffic_type=internal
+
+- 노션 : https://just-vanilla-09b.notion.site/5c6234106fc540f685f7e561cc807bcf?pvs=4
+
 ## 프로젝트 주소
 
 ### 음원 사이트 Falling
