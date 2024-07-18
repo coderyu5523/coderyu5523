@@ -30,15 +30,14 @@
 ### 습관 관리 앱 BodyKey
   
 - 프론트(Flutter) : https://github.com/coderyu5523/project-final-flutter
+- 백엔드(Spring) : https://github.com/coderyu5523/project-final-spring
+
  <br>
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Riverpod-42a5f5.svg?style=for-the-badge&logo=riverpod&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
-
-- 백엔드(Spring) : https://github.com/coderyu5523/project-final-spring
-   <br>
 
 <p>
    <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
