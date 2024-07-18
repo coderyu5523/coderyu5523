@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png" alt="Example 1" style="max-width: 100%;">
+<br/>
+
 # 습관을 만드는 개발 👋
 
 ## 블로그&노션
