@@ -11,7 +11,7 @@
 
 ## 프로젝트 주소
 
-### 음원 사이트 Falling
+### 🎵 음원 사이트 Falling
 - https://github.com/coderyu5523/project-spring-falling
   <br>
   <p>
@@ -30,7 +30,7 @@
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
    </p>
 
-### 습관 관리 앱 BodyKey
+### 💪 습관 관리 앱 BodyKey
   
 - 프론트(Flutter) : https://github.com/coderyu5523/project-final-flutter
 - 백엔드(Spring) : https://github.com/coderyu5523/project-final-spring
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   </p>
 
-### 개인 서버 블로그 프로젝트
+### 👨‍👨‍👧‍👧 개인 서버 블로그 프로젝트
 
 - https://github.com/coderyu5523/project-blog-getinthere
  <p>
@@ -73,7 +73,7 @@
 
 
 
-### 이력서 사이트 JobPlan v2
+### 🏢 이력서 사이트 JobPlan v2
 - https://github.com/coderyu5523/project-jobplan-v2-RestAPI
   <p>
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -87,7 +87,7 @@
   <img src="https://img.shields.io/badge/mustache-F7DF1E?style=for-the-badge&logo=Mustache&logoColor=white"/>
   </p>
 
-### 이력서 사이트 JobPlan v1
+### 🏢 이력서 사이트 JobPlan v1
 - https://github.com/coderyu5523/project-jobplan-v1
   <p>
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
