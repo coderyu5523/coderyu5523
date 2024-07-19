@@ -41,7 +41,6 @@
   </p>
 
   <p>
-  
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/BootStrap-8A2BE2?style=for-the-badge&logo=BootStrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -53,7 +52,7 @@
   <img src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/H2-FFA500?style=for-the-badge&logo=H2&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  https://img.shields.io/badge/REST%20API-412991.svg?style=for-the-badge&logo=restapi&logoColor=white
+  <img src="https://img.shields.io/badge/REST%20API-412991?style=for-the-badge&logo=api&logoColor=white"/>
   </p>
 
 ### 👨‍👨‍👧‍👧 개인 서버 블로그 프로젝트
@@ -83,7 +82,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/H2-FFA500?style=for-the-badge&logo=H2&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  https://img.shields.io/badge/REST%20API-412991.svg?style=for-the-badge&logo=restapi&logoColor=white
+  <img src="https://img.shields.io/badge/REST%20API-412991?style=for-the-badge&logo=api&logoColor=white"/>
   </p>
 
 ### 🏢 이력서 사이트 JobPlan v1
