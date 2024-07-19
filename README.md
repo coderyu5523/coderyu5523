@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/ded735a6-911e-46cf-9f96-a76f7d3f11cb)
 
-# 습관을 만드는 개발 👋
+# 습관을 만드는 개발자 👋
 
 ## 블로그&노션
 
