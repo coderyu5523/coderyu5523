@@ -2,6 +2,10 @@
 
 # 👋 습관을 만드는 개발자 
 
+## 책
+- 따라하며 완성하는 클라우드 배포 입문서 AWS로 배우는 실전형 CI/CD : https://product.kyobobook.co.kr/detail/S000217084939
+
+
 ## 블로그&노션
 
 - 블로그 : https://inblog.ai/coderyu1?traffic_type=internal
