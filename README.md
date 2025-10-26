@@ -4,7 +4,7 @@
 
 # 저서
 ## 1. 따라하며 완성하는 클라우드 배포 입문서 AWS로 배우는 실전형 CI/CD 
-- 링크 : https://product.kyobobook.co.kr/detail/S000217084939
+- 구매 링크 : https://product.kyobobook.co.kr/detail/S000217084939
 
 
 ## 블로그&노션
